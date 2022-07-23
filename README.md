@@ -1,2 +1,1 @@
-# Fibonacci-assignment
-Fibonacci-assignment
+This repo is created to practice python skills.
